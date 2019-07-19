@@ -1,6 +1,7 @@
-title: Minimal theme
+title: Virtual and Augmented Reality Cognition Group
 logo: /assets/img/logo.png
-description: Minimal is a theme for GitHub Pages.
+description:
+url: 'https://vr-davis-group.github.io'
 show_downloads: true
 google_analytics:
 theme: jekyll-theme-minimal
